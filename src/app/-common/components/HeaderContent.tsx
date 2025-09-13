@@ -15,7 +15,7 @@ export const HeaderContent: FC<HeaderContentProps> = ({ onToggleDropdown, isDrop
       </div>
 
       <div className='absolute inset-0 flex justify-center items-center pointer-events-none'>
-        <h1 className='text-lg font-semibold text-foreground'>Rooma</h1>
+        <h1 className='text-lg font-semibold text-foreground'>Nanly</h1>
       </div>
 
       <div className='ml-auto z-10'>

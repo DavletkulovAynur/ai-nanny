@@ -16,7 +16,7 @@
     "language": "Language",
     "newChat": "New Chat",
     "selectLanguage": "Select Language",
-    "saveDescription": "Save your favorite items, share them with friends and come back to them anytime"
+    "saveDescription": "Save your favorite nannies, share them with friends and come back anytime"
   },
   "settings": {
     "title": "Settings",
@@ -36,31 +36,31 @@
     "unauthorized": "Please log in to continue"
   },
   "chat": {
-    "findWithAI": "Find housing with AI",
-    "writeToAgent": "Write to agent",
-    "agentHelp": "You will be connected to a live agent who will help you find suitable housing.",
-    "goToAgent": "Go to agent",
-    "placeholder": "Write what you're looking for...",
+    "findWithAI": "AI for childcare",
+    "writeToAgent": "Message a nanny",
+    "agentHelp": "You will be connected to a live specialist who will help you find a suitable nanny.",
+    "goToAgent": "Go to chat",
+    "placeholder": "Describe the nanny you need...",
     "emptyState": {
-      "title": "Find housing with AI",
-      "description": "Just write what you're looking for — and our artificial intelligence will find the best options in Dubai and other cities."
+      "title": "AI for childcare",
+      "description": "Nanly understands your requests and finds vetted nannies nearby, giving you more time for yourself."
     },
     "tabs": {
       "list": "List",
       "map": "Map"
     },
     "quickQuestions": [
-      { "title": "Choose an apartment", "subtitle": "list top 5 best apartments" },
-      { "title": "Park view", "subtitle": "show new buildings with park view" },
-      { "title": "Maximum silence", "subtitle": "choose apartments in the quietest areas" },
-      { "title": "For families with children", "subtitle": "find housing near kindergarten and school" },
-      { "title": "Walking distance to metro", "subtitle": "looking for an apartment 10 minutes from the metro" },
-      { "title": "With good finishing", "subtitle": "show apartments with finishing" },
-      { "title": "Up to 10 million", "subtitle": "what options are there up to 10 million rubles" },
-      { "title": "At the start of sales", "subtitle": "looking for apartments in new buildings at the start of sales" },
-      { "title": "For investment", "subtitle": "what is better to buy for renting out" },
-      { "title": "Near the park", "subtitle": "show apartments near parks or squares" },
-      { "title": "With panoramic windows", "subtitle": "find apartments with panoramic windows" }
+      { "title": "Nannies nearby", "subtitle": "show top 5 vetted nannies near me" },
+      { "title": "Evening babysitting", "subtitle": "find a nanny for evenings and weekends" },
+      { "title": "Infant care", "subtitle": "nannies experienced with newborns" },
+      { "title": "English-speaking nanny", "subtitle": "show English-speaking nannies" },
+      { "title": "Live-in nanny", "subtitle": "find a live-in nanny" },
+      { "title": "Hourly babysitter", "subtitle": "looking for a few hours of help" },
+      { "title": "Urgent today", "subtitle": "who is available today?" },
+      { "title": "School pickup", "subtitle": "find a nanny for kindergarten/school pickups" },
+      { "title": "Special needs experience", "subtitle": "nannies experienced with special needs" },
+      { "title": "Background checked", "subtitle": "show only background-checked nannies" },
+      { "title": "Weekday mornings", "subtitle": "find a nanny for weekday mornings" }
     ]
   },
   "property": {
